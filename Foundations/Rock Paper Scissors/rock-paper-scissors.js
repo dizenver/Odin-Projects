@@ -18,8 +18,20 @@ let computerSelection = computerPlay();
 console.log(computerSelection);
 
 //Push both player and computer selections through `playRound` function
-function playRound (playerSelection, computerPlay) {
-  
+function playRound () {
+  if (playerSelection === computerSelection) {
+      console.log("Tie Game");
+  } else if (playerSelection === "rock" && computerSelection === "scissors") {
+    console.log ("You win the round");
+  } else if (playerSelection === "paper" && computerSelection === "rock") {
+    console.log ("You win the round");
+  } else if (playerSelection === "scissors" && computerSelection === "paper") {
+    console.log ("You win the round");
+  } else {
+    console.log ("I lose");
+  }
 }
+
+playRound();
 
 //Using `loop` call `playRound` function for a 5 round game and keep score.
