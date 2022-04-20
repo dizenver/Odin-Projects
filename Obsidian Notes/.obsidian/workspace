@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "e186c6e4b4f315b0",
+    "id": "ba98087d1b5e3921",
     "type": "split",
     "children": [
       {
-        "id": "61d3354b21fe94be",
+        "id": "9601ec2aa7126255",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "My Daily Notes/2022-04-19.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "568518e3ed8fc542",
+    "id": "553e1e1352c04fa4",
     "type": "split",
     "children": [
       {
-        "id": "d9399b58019cab94",
+        "id": "1d11d334589cd510",
         "type": "tabs",
         "children": [
           {
-            "id": "a33b23b71548c617",
+            "id": "28aabeebcecb4454",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "788a2b23c0fe7976",
+            "id": "ec8f08f1723775a1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,27 +45,27 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "20cf53fe8e2c599a",
+    "id": "6a2e2bc587d6d791",
     "type": "split",
     "children": [
       {
-        "id": "f7a6d4cf81fdc9da",
+        "id": "0c130b7e46aaa5c3",
         "type": "tabs",
         "children": [
           {
-            "id": "9cc48dd8cc79658b",
+            "id": "9f138f392baed460",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Daily Notes/2022-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,34 +75,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "3c2861c800bf8aa4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "61d3354b21fe94be",
-  "lastOpenFiles": [
-    "My Daily Notes/2022-04-19.md",
-    "Javascript/Errors.md",
-    "Javascript/Loops.md",
-    "Javascript/while.md",
-    "Javascript/for.md",
-    "Odin Project/Pseudocode.md",
-    "Odin Project/Problem Solving.md",
-    "My Daily Notes/2022-04-18.md",
-    "Odin Project/Loop.md",
-    "My Boards/Odin Board.md"
-  ]
+  "active": "9601ec2aa7126255",
+  "lastOpenFiles": []
 }

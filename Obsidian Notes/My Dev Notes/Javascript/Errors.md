@@ -1,5 +1,6 @@
-# Tuesday April 19, 2022
-##  Types of [[Errors]]
+# Errors
+
+## Types of Errors
 
 ### Syntax Error
 A **`SyntaxError`** occurs when the code you are trying to run is not written correctly
@@ -49,19 +50,3 @@ const message = str1.push(str2);
 will throw the foillowing error because `.push()` is not a String method, it’s an Array method.  Using a String method, like `.concat`, would resolve this error.  
 
 [Full List of Javascript Errors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
-
-
-
-
-### Rock Paper Scissors 
-Create a program where you  play Rock Paper Scissors against a computer.
-
-#### Pseudocode
-`prompt()` user for input (Rock, Paper or Scissors)
-	convert to lower case and verify it is one of the three (case-sensitive answers)
-Generate `computerSelection` variable using `computerPlay` function.
-
-Push both player and computer selections through `playRound` function
-
-Using `loop` call `playRound` function for a 5 round game and keep score.
-
